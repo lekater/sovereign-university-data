@@ -13,7 +13,6 @@ JohnOnChain nous partage ses connaissances :
 
 ![vidéo tuto de johnOnChain](https://tube.nuagelibre.fr/videos/watch/eb4065e5-cf0a-427e-96a9-1638f2efb91f)
 
-
 > Crédit à : https://blog.summerofbitcoin.org/bitcoin-lightning-and-the-eye-of-satoshi-watchtower-revolutionizing-transactions-and-security//
 
 ## Comment fonctionnent les tours de guet ?
@@ -46,9 +45,9 @@ rpcpassword=<votre-mot-de-passe>
 regtest=1
 ```
 
-* server : pour les requêtes RPC
-* rpcuser et rpcpassword : les clients RPC peuvent s'authentifier auprès du serveur
-* regtest : non requis mais utile si vous prévoyez de développer.
+- server : pour les requêtes RPC
+- rpcuser et rpcpassword : les clients RPC peuvent s'authentifier auprès du serveur
+- regtest : non requis mais utile si vous prévoyez de développer.
 
 rpcuser et rpcpassword doivent être choisis par vous. Ils doivent être écrits sans guillemets. Exemple :
 
